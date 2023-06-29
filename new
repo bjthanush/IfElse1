@@ -1,0 +1,20 @@
+<html>
+    <body>
+        <div class="title">
+            Registration Form
+        </div>
+        <div class="form">
+            <div class="input_field">
+                <label>First Name</label>
+                <input type="text" class="input">
+            </div>
+            <div class="input_field">
+            <label>Last Name</label>
+            <input type="text" class="input">
+            </div>
+            <div class="input_fild">
+                <label>Passwords</label>
+                <input type="text" class="input">
+            </div>
+        </div>
+       
